@@ -736,7 +736,7 @@ background: #f0f0f0 url('../images/dark/arrow_bullet.png') no-repeat 90% 50%; }
 
 #navigation ul, #navigation ul.sf-menu li a { border-radius:0px; }
 
-#navigation ul li a, #navigation ul.sf-menu li a { font-size: .9em;padding: 10px 15px; }
+#navigation ul li a, #navigation ul.sf-menu li a { font-size: .9em;padding: 10px 10.3px; }
 
 #header #site-slogan { font-size: 1.25em; }
 
