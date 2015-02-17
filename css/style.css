@@ -4,7 +4,7 @@
 	border-bottom: 1px solid #4d90c7;
 }
 
-
+#navigation ul li.last.leaf {border:none !important;}
 
 
 .block-block {
@@ -653,7 +653,7 @@ filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#fcfcfc', end
 
 
 
-#navigation ul li a, #navigation ul.sf-menu li a { padding: 15px 20px; text-decoration: none; line-height:100%;
+#navigation ul li a, #navigation ul.sf-menu li a { padding: 15px 19.4px; text-decoration: none; line-height:100%;
 display: block; font-weight: bold; text-shadow: 1px 1px 0px #fff; outline:none; }
 
 
